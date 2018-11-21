@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "45466706299",
+    "firebase_url": "https://animerisuto-a83cd.firebaseio.com",
+    "project_id": "animerisuto-a83cd",
+    "storage_bucket": "animerisuto-a83cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45466706299:android:d58ed091ea2d287a",
+        "android_client_info": {
+          "package_name": "com.animerisuto.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45466706299-u7n1mj9mame0qsmkqll4fmp9b4cs1fft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIfaimyBEaRtQ0_8H_qXnPg_3VaMaJJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45466706299:android:58e5563b61108ceb",
+        "android_client_info": {
+          "package_name": "com.psychologyx.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45466706299-u7n1mj9mame0qsmkqll4fmp9b4cs1fft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIfaimyBEaRtQ0_8H_qXnPg_3VaMaJJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
